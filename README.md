@@ -33,7 +33,7 @@
 
 <br><br>
 
-<p><img align="left" padding-top="20" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aymanquad&show_icons=true&locale=en&layout=compact" alt="Aymanquad" /></p>
+<p><img align="left" margin-top="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aymanquad&show_icons=true&locale=en&layout=compact" alt="Aymanquad" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aymanquad&show_icons=true&locale=en" alt="Aymanquad" /></p>
 
