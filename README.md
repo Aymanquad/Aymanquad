@@ -8,10 +8,10 @@
 
 
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymanquad&label=Profile%20views&color=0e75b6&style=flat" alt="aymanquad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aymanquad&label=Profile%20views&color=0e75b6&style=flat" alt="Aymanquad" /> </p>
 
 
-
+<br><br>
 
 - 🌱 I’m currently learning **Nodejs ,Mongoose and Svelte**
 
