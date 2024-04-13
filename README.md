@@ -13,7 +13,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **Nodejs ,Mongoose and Svelte**
+- 🌱 I’m currently learning **C++ and improving my backend skills**
 
 - 💬 Ask me about **Vanilla frontend , Anything related with backend**
 
